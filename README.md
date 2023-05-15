@@ -1,3 +1,7 @@
+# CSS Exercises - Andrew Erasmus
+
+These are some css exercises that I used to practice CSS for web design as part of The Odin Project. This is used to build and solidify my understanding of css so that I can develop my web dev skills.
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
